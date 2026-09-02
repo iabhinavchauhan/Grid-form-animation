@@ -13,7 +13,6 @@ A simple and interactive **Numbered Grid** project created using **HTML, CSS, an
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
 
 ## How It Works
 
