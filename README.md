@@ -8,10 +8,6 @@ A simple and interactive **Numbered Grid** project created using **HTML, CSS, an
 - **Interactive Grid Animation**
 - **Hover Effects**
 - **Smooth Transitions**
-- **Responsive Design**
-- **Clean and Simple UI**
-- **Lightweight Project**
-- **Works on Different Screen Sizes**
 
 ## Technologies Used
 
